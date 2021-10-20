@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/614d4671-792d-48f8-a7e1-2b30b8b69747/resourceGroups/infr-weu-networking-rg/providers/Microsoft.Web/sites/nise0",
+    "appService.deploySubpath": "."
+}
